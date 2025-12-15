@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="metaname" content="width=device-width, initial-scale=1.0">
+    <title>Civilisations Classic</title>
+</head>
+<body>
+  <div style="font-family:Arial, sans-serif; max-width: 800px; margin:auto; max-height: 1000px; overflow-y: auto; padding-right: 10px; border: 1px solid #ccc; border-radius: 8px;">
+
+  <h1 style="text-align:center; color:#2e86de;">🌍 Nations</h1>
+
+  <div style="border: 2px solid #ff0000; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#ff0000;">Operators</h2>
+    <p><strong>Leader:</strong> Server</p>
+    <p><strong>Description:</strong> Operators, not a nation. Each operator haves a prefix "[OP]" before his nickname.</p>
+  </div>
+
+  <div style="border: 2px solid #5d5d5d; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#1c9900;">Germany</h2>
+    <p><strong>Leader:</strong> Foxyinphone</p>
+    <p><strong>Allies:</strong> Italy; Lithuania; Finland</p>
+    <p><strong>Wars:</strong> None</p>
+    <p><strong>Description:</strong> First nation on a server. It was hard for us to start, but slowly and effectively we are getting stronger and richer...</p>
+    <p><strong>Status:</strong> "Abandomed (2025-04-11 21:45 - 2025-09-14 23:00) "</p>
+    <p><strong>Badges:</strong> 🤝 Allied</p>
+    <p><strong>Alliance:</strong> USF</p>
+  </div>
+
+  <div style="border: 2px solid #c70d00; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#c70d00;"> Russia</h2>
+    <p><strong>Leader:</strong> NotDodge</p>
+    <p><strong>Allies:</strong> None</p>
+    <p><strong>Wars:</strong> None</p>
+    <p><strong>Description:</strong> None</p>
+    <p><strong>Status:</strong> "Normal"</p>
+    <p><strong>Badges:</strong> None</p>
+    <p><strong>Alliance:</strong> None</p>
+  </div>
+
+  <div style="border: 2px solid #ff0000; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#e30202;">Switzerland</h2>
+    <p><strong>Leader:</strong> Smiler73</p>
+    <p><strong>Allies:</strong> Italy; Lithuania</p>
+    <p><strong>Wars:</strong> None</p>
+    <p><strong>Description:</strong> None</p>
+    <p><strong>Status:</strong> "Normal"</p>
+    <p><strong>Badges:</strong> 🤝 Allied</p>
+    <p><strong>Alliance:</strong> None</p>
+  </div>
+
+  <div style="border: 2px solid #25d102; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#25d102;">Italy</h2>
+    <p><strong>Leader:</strong> KingOF_nether</p>
+    <p><strong>Allies:</strong> Lithuania; Switzerland</p>
+    <p><strong>Wars:</strong> None</p>
+    <p><strong>Description:</strong> None</p>
+    <p><strong>Status:</strong> "Normal"</p>
+    <p><strong>Badges:</strong> 🤝 Allied</p>
+    <p><strong>Alliance:</strong> USF</p>
+  </div>
+
+  <div style="border: 2px solid #ff7b00; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#ff7b00;">Lithuania</h2>
+    <p><strong>Leader:</strong> cyniwini</p>
+    <p><strong>Allies:</strong> Italy; Switzerland</p>
+    <p><strong>Wars:</strong> None</p>
+    <p><strong>Description:</strong> None</p>
+    <p><strong>Status:</strong> "Normal"</p>
+    <p><strong>Badges:</strong> 🤝 Allied</p>
+    <p><strong>Alliance:</strong> USF</p>
+  </div>
+
+  <div style="border: 2px solid #ff03fb; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+    <h2 style="color:#ff03fb;">New Zealand</h2>
+    <p><strong>Leader:</strong> Sauron_656</p>
+    <p><strong>Allies:</strong> Italy; Switzerland</p>
+    <p><strong>Wars:</strong> None</p>
+    <p><strong>Description:</strong> None</p>
+    <p><strong>Status:</strong> "Normal"</p>
+    <p><strong>Badges:</strong> 🤝 Allied</p>
+    <p><strong>Alliance:</strong> None</p>
+  </div>
+
+</div>
+</body>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="metaname" content="width=device-width, initial-scale=1.0">
+    <title>Civilisations Modern</title>
+    <style>
+        .image-container{
+            margin: 20px;
+        }
+        .image-container img{
+            margin: 10px;
+            border: 2px solid #4a2c0b;
+            border-radius: 5px;
+        }
+        .nation-container {
+            display: flex;
+            align-items: center;
+            background-color: white;
+            padding: 15px;
+            border: 2px solid black;
+            width: 450px;
+            margin-bottom: 5px;
+        }
+        .nations-list{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .nation-text{
+            margin-left: 10px;
+            color: black;
+        }
+        
+    </style>
+</head>
+<body style="background-color:rgb(60, 60, 60);">
+    <a href="civhome.html"><button style="color: black; width: 200px;height: 45px; border-radius: 10px; border-color: transparent; font-size: 150%; cursor: pointer;">Back</button></a>
+    <h1>List of all Civilisations: Modern nations</h1>
+    <div style="background-color: white; width: 90%;height: 700px;border-radius: 10px;padding: 10px;border-color: gray;padding-left:5%">
+        <h1>Active nations</h1>
+        <div class="nations-list">
+            <div class="nation-container">
+                <img src="data:image/png;base64,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" width="55%" height="85%">
+                <div>
+                    <a href="Nations/civmodern-nation-usa.html"><br>USA</a>
+                    <a><br>🙍Player nation</a>
+                    <a><br>Players count: 4</a>
+                    <a><br>Description: none</a>
+                </div>
+            </div>
+            <div class="nation-container">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Gear-icon.png" width="55%" height="85%">
+                <div>
+                    <a href="Nations/civmodern-nation-usa.html"><br>Machinia</a>
+                    <a><br>⚙️AI nation</a>
+                    <a><br>Behaviour: Friendly</a>
+                    <a><br>Description: "Machinia is an AI-governed industrial nation specializing in automation, advanced defenses, and efficient production. Friendly to allies, but heavily fortified against threats. Progress through precision."</a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</body>
+
+</html>
